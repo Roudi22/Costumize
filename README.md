@@ -7,7 +7,7 @@ Programmer and web developer
 I've been learning to code for a long time and I've found my passion in web development industry and started my way with HTML, CSS, JS and now I work as a freelancer providing landing pages and portfolio websites.
 
 * 🌍  I'm based in Web development
-* 🖥️  See my portfolio at [this link](http://https://rdevportfolio.netlify.app/)
+* 🖥️  See my portfolio at [this link](https://rdevportfolio.netlify.app/)
 * ✉️  You can contact me at [roudi.alzkemi@gmail.com](mailto:roudi.alzkemi@gmail.com)
 * 🧠  I'm learning ReactJS, back-end and Python
 
